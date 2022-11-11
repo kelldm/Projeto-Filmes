@@ -6,6 +6,13 @@
 
 }
 
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+}
+
 .movie-list article{
     width: 100%;
     background-color: #fff;
